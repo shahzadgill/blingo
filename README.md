@@ -1,2 +1,2 @@
 # blingo
-My first repository on GitHub.
+My first blingo project on Github etc.
